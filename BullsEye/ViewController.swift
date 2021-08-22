@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+//
 class ViewController: UIViewController {
     
   @IBOutlet var slider: UISlider! //variable "slider" connected to the UI slider
